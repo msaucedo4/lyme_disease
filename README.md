@@ -87,7 +87,7 @@ Separately, low-incidence states overall show a substantially higher zero-case r
 - **Tick data is not year-specific.** Tick establishment status reflects cumulative surveillance current as of 2025 (83% based on historic/undated sources, the remainder dated 2004-2025) rather than a single collection year, and is compared here against 2020-2023 case data as the closest reasonable proxy.
 - **Case data ends in 2023**, two years before the tick data's reference point. Tick establishment is a slow-changing biological reality, so this gap is not expected to materially affect the comparison, but is noted for transparency.
 - **Case data reflects patient residence, not exposure location** (per CDC's own documentation), meaning travel-related cases may be attributed to counties with low actual tick exposure risk.
-- **Tick surveillance is a passive system**, dependent on who submits samples for testing. "No records" status does not confirm tick absence — it may reflect under-sampling rather than true absence.
+- **Tick surveillance is a passive system**, dependent on who submits samples for testing. "No records" status does not confirm tick absence which may reflect under-sampling rather than true absence.
 - **Connecticut is excluded** from the tick-status comparison due to incompatible geographic boundaries between data sources.
 - **This analysis is correlational, not causal, and no explanatory mechanism was directly measured.** The rural and low-incidence zero-case patterns are robust, measured associations; healthcare access and clinical awareness are plausible but untested explanations for those associations.
 
